@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ I am Samuel wong. I'm a freelance Data Scientist. I'm currently a student major in Actuarial Science ( Year 2 ) at Heriot-Watt University Malaysia. I'm passionate with Statistics and Machine Learning. Feel free to leave a message to me. 
+
+My Tools:
+- Python
+- R
+- Excel
+- Tableau 
+- SQL
+- Basics terminal 
+- Git 
