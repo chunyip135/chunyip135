@@ -25,3 +25,5 @@ My Tools:
 - SQL
 - Basics terminal 
 - Git 
+- Tensorflow 
+- Keras
