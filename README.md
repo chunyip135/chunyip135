@@ -19,11 +19,11 @@ Here are some ideas to get you started:
  
  Feel free to leave a message to me. 
  
-- 🔭 I’m currently working on my personal website
-- 🌱 I’m currently learning Deep Learning
-- 👯 I’m looking freelance jobs on Fiverr & Upwork
+- 🔭 I’m currently working on my personal website.
+- 🌱 I’m currently learning Deep Learning.
+- 👯 I’m looking freelance jobs on Fiverr & Upwork.
 - 💬 Ask me about Data Science, Maths, Python, Machine Learning and also Deep Learning.
-- 📫 How to reach me: Just send an email to me
+- 📫 How to reach me: Just send an email to me.
 
 My Tools:
 - Python
