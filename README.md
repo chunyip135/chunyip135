@@ -27,19 +27,22 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Deep Learning using tensorflow (Image classification).
   * How do I learn?
     1. Tensorflow in practice specialization on Coursera
-    2. Hands-on Machine Learning with Scikit-learn, Keras & Tensorflow book 
+    2. Hands-on Machine Learning with Scikit-learn, Keras & Tensorflow book
     
 - 👯 I’m looking freelance jobs on Fiverr & Upwork.
+
 - 💬 Ask me about Data Science, Maths, Python, Machine Learning and also Deep Learning.
+
 - 📫 How to reach me: Just send an email to me.
 
-My Tools:
-- Python
-- R
-- Excel
-- Tableau 
-- SQL
-- Basics terminal 
-- Git 
-- Tensorflow 
-- Keras
+ My Current Projects:
+ - image classification using CNN on datasets in Kaggle
+
+ My Tools:
+ Python, R, Excel, Tableau, SQL, Bash, Git, Tensorflow, Keras
+
+ What to learn next ?
+ - NLP
+ - RNN, LSTM
+ - More statistics
+ - Object recognization
