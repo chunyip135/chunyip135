@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about Data Science, Maths, Python, Machine Learning and also Deep Learning.
 
+[![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=chunyip135)](https://github.com/anuraghazra/github-readme-stats)
+
 - 📫 How to reach me: Just send an email to me.
 
  My Current Projects:
