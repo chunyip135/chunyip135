@@ -14,12 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Intro
 Hi guys, I'm Samuel Wong and I'm from Malaysia!
 I'm a 2nd Year Actuarial Science student that highly interested, or I could say passionate about mainly data science, quantitative finance and also programming. Currently I'm learning on MLOps especally on Model deployment and machine learning pipeline. My ultimate goal is to combine both quantitative finance with tools from data science such as ML to generate interesting insights from it. 
 
+## Skills
 * My toolbox: Python, R, SQL, Excel VBA, UNIX, Vim, Git
 * Area of interest: quantitative finance, machine learning, time series, deep learning, programming, data science, OOP, MLOps, DevOps, data engineering, Model Deployment
 * My skills: Data cleaning, data manipulation, data visualization, machine learning models using Scikit-learn, deep learning models using TensorFlow and Keras
+
+## Doing
+Learning algorithmic trading through **Machine Learning for Algorithmic Trading**
+
+## Current projects
+Project: **AlgoQuant** (end-to-end algorithmic trading platform with machine Learning, adapted ML4T workflow)
 
 <!--
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chunyip135)](https://github.com/anuraghazra/github-readme-stats)
