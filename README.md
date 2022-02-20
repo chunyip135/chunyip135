@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Intro
 Hi guys, I'm Samuel Wong and I'm from Malaysia!
-I'm a 2nd Year Actuarial Science student that highly interested, or I could say passionate about mainly data science, quantitative finance and also programming. Currently I'm learning on MLOps especally on Model deployment and machine learning pipeline. My ultimate goal is to combine both quantitative finance with tools from data science such as ML to generate interesting insights from it. 
+I'm a Final Year Actuarial Science student that highly interested, or I could say passionate about mainly data science, quantitative finance and also programming. Currently I'm learning on MLOps especally on Model deployment and machine learning pipeline. My ultimate goal is to combine both quantitative finance with tools from data science such as ML to generate interesting insights from it. 
 
 ## Skills
 * My toolbox: Python, R, SQL, Excel VBA, UNIX, Vim, Git
