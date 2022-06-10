@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Intro
 Hi guys, I'm Samuel Wong and I'm from Malaysia!
-I'm a Actuarial Science fresh graduate that is highly interested, or I could say passionate about mainly data science, quantitative finance and also programming. Currently I'm learning on MLOps especally on Model deployment and machine learning pipeline. My ultimate goal is to combine both quantitative finance with tools from data science such as ML to generate interesting insights from it. 
+I'm a Actuarial Science fresh graduate that is highly interested, or I could say passionate about mainly data science, quantitative finance and also programming. Currently I'm learning data engineering or data pipelines such as how data are being preprocessed before feeding into the data warehouse for analytics purposes. 
 
 ## Skills
 * My toolbox: Python, R, SQL, Excel VBA, UNIX, Vim, Git, Bash
@@ -26,6 +26,7 @@ I'm a Actuarial Science fresh graduate that is highly interested, or I could say
 ## Doing
 * Learning algorithmic trading through **Machine Learning for Algorithmic Trading**
 * Learning and building an end-to-end algorithmic trading infrastructure
+* Learning Ploty and Dash on how to create interactive dashboard from scratch
 
 ## Current projects
 Project: **AlgoQuant** (end-to-end algorithmic trading platform with machine Learning, adapted ML4T workflow)
